@@ -1,0 +1,3 @@
+[build]
+  command = "remix vite:build"
+  publish = "build/client"
