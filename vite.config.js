@@ -5,10 +5,5 @@ export default defineConfig({
   // Configure Vite here
   build: {
     outDir: 'build/client',
-    rollupOptions: {
-      input: {
-        main: 'index.html',
-      },
-    },
   },
 });
