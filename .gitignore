@@ -1,2 +1,1 @@
-node_modules/
-node_modules/.pnpm/@cloudflare+workerd-darwin-arm64@1.20241106.1/node_modules/@cloudflare/workerd-darwin-arm64/bin/workerd
+node_modules/**
